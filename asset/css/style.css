@@ -33,9 +33,6 @@ h1 {
 	flex-wrap: wrap;
 }
 
-.control.has-icons-right .input {
-	padding-right: 11.5em;
-}
 
 .dis-non {
 	display: none;
